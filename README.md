@@ -1,7 +1,7 @@
 # Audio Flow
 
 <p align="center">
-  <img src="assets/banner-1544x500.png" alt="Audio Flow — продвинутый аудио-плеер для WordPress" width="100%" style="max-width: 100%;">
+  <img src="assets/banner-1544x500.png" alt="Audio Flow — продвинутый аудио-плеер для WordPress Elizarov_n906" width="100%" style="max-width: 100%;">
 </p>
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 **Audio Flow** — легкий и мощный плагин для встраивания стильных аудио-плееров на сайт. Позволяет управлять библиотекой треков прямо из админки и выводить их в любом месте сайта с помощью простых шорткодов.
 
-![Version](https://img.shields.io/badge/version-2.0.9-blue?style=flat-square)
-![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-21759b?style=flat-square&logo=wordpress)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4?style=flat-square&logo=php)
+![WordPress](https://img.shields.io/badge/WordPress-7.1%2B-21759b?style=flat-square&logo=wordpress)
+![PHP](https://img.shields.io/badge/PHP-8.3%2B-777bb4?style=flat-square&logo=php)
 ![License](https://img.shields.io/badge/license-GPLv2-green?style=flat-square)
+
 
 [Описание](#о-плагине) · [Возможности](#возможности) · [Установка](#установка) · [Использование](#использование) · [Лицензия](#лицензия)
 
